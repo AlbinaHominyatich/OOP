@@ -1,2 +1,2 @@
-#2
-print("Yes")
+#2.1
+print("But")
